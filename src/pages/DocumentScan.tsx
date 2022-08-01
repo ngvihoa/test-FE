@@ -1,5 +1,6 @@
 import { UploadSquareOutline, Trash, FolderAlert } from 'iconoir-react';
 import { useCallback, useState } from 'react';
+import React from 'react';
 import {useDropzone} from 'react-dropzone';
 import { Document, Page } from 'react-pdf';
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
