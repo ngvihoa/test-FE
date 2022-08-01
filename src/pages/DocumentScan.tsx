@@ -192,4 +192,4 @@ const DocumentScan = () => {
     );
 };
 
-export default DocumentScan;
+export default DocumentScan; 
